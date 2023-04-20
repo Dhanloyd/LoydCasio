@@ -485,6 +485,7 @@ html{
 @media (max-width: 365px){
     .home-img img{
         width:90vw;
+        margin-right: 100px;
     }
     .about-img img{
         width: 90vw;
